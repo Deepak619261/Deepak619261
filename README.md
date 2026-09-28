@@ -16,8 +16,8 @@
 | [**GRIDwar**](https://github.com/Deepak619261/GRIDWAR) · [live](https://gridwar-deepaks-projects-70214c28.vercel.app/) | Real-time multiplayer grid game on **.NET 9 SignalR + Angular 20**: WebSocket broadcast to every client, lock-free conflict resolution via compare-and-swap (`ConcurrentDictionary.TryUpdate`), optimistic UI, 60 fps canvas rendering 2,500 cells. |
 | [**sales-sequence-intelligence-copilot**](https://github.com/Deepak619261/sales-sequence-intelligence-copilot) | **RAG** app (FastAPI): hybrid search (embeddings + BM25 with RRF), cross-encoder reranking, prompt-injection defence, pluggable vector stores (Qdrant / Azure AI Search). |
 | [**CodeGenie**](https://github.com/Deepak619261/CodeGenie) | Cost-aware **coding agent for VS Code**: three-tier model router across local and cloud LLMs, per-task budget with a hard stop, semantic context compaction. |
-
 | [**whatsapp-agent**](https://github.com/Deepak619261/whatsapp-agent) | AI appointment-setter agent over **real WhatsApp** (Node.js/Express, Twilio + Meta WhatsApp Cloud API): swappable LLM backends (Claude / OpenAI / Gemini / Groq) behind one interface, per-lead message **debouncing** that groups bursts into a single reply, humanized typing delays and message splitting, live SSE control panel. |
+
 ---
 
 #### 📈 Also
